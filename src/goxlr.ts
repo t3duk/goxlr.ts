@@ -10,7 +10,3 @@ In this file we need the following systems:
 - Import the different classes and functions from the other files
   
 */
-
-export function init(bind: string, port: number, serial: string) {
-  
-}
